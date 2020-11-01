@@ -1,4 +1,4 @@
 # menucost
 A restaurant menu costing system
 
-please email me
+please email me.
